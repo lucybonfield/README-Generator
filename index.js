@@ -15,6 +15,26 @@ const questions = [
     name: 'description',
     message: 'Provide a short description explaining the what, why, and how of your project:',
   },
+  {
+    type: 'input',
+    name: 'installation',
+    message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running:',
+  },
+  {
+    type: 'input',
+    name: 'usage',
+    message: 'Provide instructions and examples for use:',
+  },
+  {
+    type: 'input',
+    name: 'credits',
+    message: 'List your collaborators, if any, with links to their GitHub profiles:',
+  },
+  {
+    type: 'input',
+    name: 'license',
+    message: 'If you are using a license, write the name:',
+  },
 ];
 
 // function to write README file
