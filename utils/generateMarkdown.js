@@ -25,7 +25,8 @@ ${data.usage}
 ${data.credits}
 
 ## Badges
-![badmath](https://img.shields.io/badge/${data.languages}_${data.percent})
+![badmath](https://img.shields.io/badge/${data.languages}-${data.percent}-blue)
+any_text-you_like-blue
 
 ## License
 This project is licensed under the ${data.license} license.
