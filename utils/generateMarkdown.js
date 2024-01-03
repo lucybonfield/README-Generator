@@ -11,6 +11,7 @@ ${data.description}
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Badges] (#badges)
 - [License](#license)
 - [Contact](#contact)
 
@@ -22,6 +23,9 @@ ${data.usage}
 
 ## Credits
 ${data.credits}
+
+## Badges
+![badmath](https://img.shields.io/badge/${data.languages}_${data.percent})
 
 ## License
 This project is licensed under the ${data.license} license.

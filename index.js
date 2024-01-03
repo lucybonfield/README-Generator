@@ -32,6 +32,16 @@ const questions = [
   },
   {
     type: 'input',
+    name: 'languages',
+    message: 'What language does this project use?',
+  },
+  {
+    type: 'input',
+    name: 'percent',
+    message: 'How much % of the project was used with this language?',
+  },
+  {
+    type: 'input',
     name: 'license',
     message: 'If you are using a license, write the name:',
   },
