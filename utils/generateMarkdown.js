@@ -11,7 +11,7 @@ ${data.description}
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [Badges] (#badges)
+- [Badges](#badges)
 - [License](#license)
 - [Contact](#contact)
 
