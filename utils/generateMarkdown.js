@@ -26,13 +26,12 @@ ${data.credits}
 
 ## Badges
 ![badmath](https://img.shields.io/badge/${data.languages}-${data.percent}-blue)
-any_text-you_like-blue
 
 ## License
 This project is licensed under the ${data.license} license.
 
 ## Contact
-GitHub: ${data.github}(https://github.com/${data.github})
+GitHub: https://github.com/${data.github}\n
 Email: ${data.email}
   `;  
 }
