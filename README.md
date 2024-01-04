@@ -10,4 +10,4 @@ Run the code in the command line using 'node index.js'.
 
 ## Usage
 
-<img width="773" alt="Screenshot 2023-12-20 at 15 22 18" src="https://github.com/lucybonfield/README-Generator/assets/40248317/ea511e0b-7346-4eed-98a9-f3070d115f89">
+<img width="1061" alt="Screenshot 2024-01-04 at 18 23 26" src="https://github.com/lucybonfield/README-Generator/assets/40248317/de0ab899-76cd-4bf7-a92f-a8490b6e1aac">
